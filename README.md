@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Shahid
-- 👀 I’m interested in Game Development
+- 👀 MERN Stack Developer | 
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Several Development Projects
+- 💞️ I’m looking to collaborate on Several Development Projects regarding javascript, MERN 
 - 📫 How to reach me 
 
 <!---
