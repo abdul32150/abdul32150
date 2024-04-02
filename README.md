@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdullah Shahid
-- 👀 MERN Stack Developer | 
-- 🌱 I’m currently learning Software Engineering
+- 👀 Associate Software Engineer | 
 - 💞️ I’m looking to collaborate on Several Development Projects regarding javascript, MERN 
 - 📫 How to reach me 
 
